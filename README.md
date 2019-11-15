@@ -1,6 +1,5 @@
 # A.R.P. — Adaptive Role-Play System
-## *Adaptive Role-Play System*
-### Written by [Aidan Naveja](https://phottachedesign.myportfolio.com/other-art-junk) under the CC-BY-SA-4.0 license
+#### Written by [Aidan Naveja](https://phottachedesign.myportfolio.com/other-art-junk) under the CC-BY-SA-4.0 license
 
 
 ## What is A.R.P. you ask?

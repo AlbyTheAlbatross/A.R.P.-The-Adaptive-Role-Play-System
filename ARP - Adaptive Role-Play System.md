@@ -172,4 +172,10 @@ You hit if your check sum is larger than theirs, the difference between the two 
 
 
 
+---
 ## Glossary of Terms
+
+
+
+
+---
